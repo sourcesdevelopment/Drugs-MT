@@ -1,0 +1,5 @@
+name: infinityfarming
+version: 1.0-SNAPSHOT
+main: de.zitronekuchen.infinityfarming.Main
+author: "Zitronekuchen"
+depend: [WorldGuard, Citizens]

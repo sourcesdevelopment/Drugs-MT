@@ -1,0 +1,27 @@
+# Verkoopprijs per wiet
+WeedPrice: 10
+CokePrice: 10
+
+#How much conversion costs. (Set on 0 when u dont want any cost)
+CokeConversionPrice: 10
+
+WietSeedName: "Wiet Zaadje"
+WietName: "Verse Wiet"
+
+CokeSeedName: "Coke Zaadje"
+CokeLeaveName: "Coke blaadjes"
+CokeName: "Best coke frfr"
+
+# Hoe lang elke growning stage moet duren
+WeedGrowing: 10
+CokeGrowing: 10
+
+# Welke state je de wiet kan farmen
+WeedState: 2
+CokeState: 2
+
+# Hoe lang het duurt om wiet te oogsten
+OogstenTime: 1
+
+# Hoe lang het duurt om wiet te planten
+PlantingTime: 1
