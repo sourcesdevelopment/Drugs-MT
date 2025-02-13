@@ -1,5 +1,5 @@
 # Drugs-MT
-This is a plugin made by zitronekuchen that i updated and the owner of the server this was for scammed me (i was hosting the server for them so i am leaving this here)
+This is a plugin made by zitronekuchen that i updated and the owner of the server (not zitronekuchen but the owner of InfinityMT) scammed me (i was hosting the server for them so i am leaving this here)
 
 # InfinityFarming Plugin
 InfinityFarming is a Minecraft 1.12.2 plugin that introduces a unique farming system where players can grow, harvest, and process two types of drugs—Weed and Coke—using custom NPC interactions and timed growth mechanics. The plugin integrates with popular tools such as WorldGuard (for region/plot protection) and Citizens (for NPC functionality) to create an immersive experience.
